@@ -4,8 +4,9 @@
 
 --> Implementações das TADs: **"src/main/java/tad"**
 
-* **Atividade realizada pelo grupo:**
 
--*Raiff Ferreira Telecio*
+--> **Atividade realizada pelo grupo:**
 
--*Guilherme Ribeiro Liebig*
+* *Raiff Ferreira Telecio*
+
+* *Guilherme Ribeiro Liebig*
