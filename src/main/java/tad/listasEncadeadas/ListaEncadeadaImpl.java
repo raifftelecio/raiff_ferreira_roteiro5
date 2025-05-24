@@ -3,7 +3,7 @@ package tad.listasEncadeadas;
 import tad.util.Conversor;
 
 /**
- * Autor: Raiff Ferreira Telecio
+ * Autor: Raiff Ferreira Telecio e Guilherme Ribeiro
  * Disciplina: LEDA
  * Roteiro: Implementação de uma Lista Encadeada
  * 
