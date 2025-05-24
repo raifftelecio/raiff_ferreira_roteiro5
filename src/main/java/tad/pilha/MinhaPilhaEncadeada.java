@@ -1,7 +1,7 @@
 package tad.pilha;
 
 /**
- * Autor: Raiff Ferreira Telecio
+ * Autor: Raiff Ferreira Telecio e Guilherme Ribeiro
  * Disciplina: LEDA
  * Roteiro: Implementação de Pilha Encadeada
  * 
