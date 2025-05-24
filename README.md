@@ -6,5 +6,6 @@
 
 --> **Atividade realizada pelo grupo:**
 
-*Raiff Ferreira Telecio*
-*Guilherme Ribeiro Liebig*
+-*Raiff Ferreira Telecio*
+
+-*Guilherme Ribeiro Liebig*
