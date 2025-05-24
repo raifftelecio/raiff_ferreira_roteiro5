@@ -1,7 +1,7 @@
 package tad.listasEncadeadas;
 
 /**
- * Autor: Raiff Ferreira Telecio
+ * Autor: Raiff Ferreira Telecio e Guilherme Ribeiro
  * Disciplina: LEDA
  * Roteiro: Implementação de uma Lista Duplamente Encadeada
  * 
