@@ -1,7 +1,7 @@
 package tad.conjuntoDinamico;
 
 /**
- * Autor: Raiff Ferreira Telecio
+ * Autor: Raiff Ferreira Telecio e Guilherme Ribeiro
  * Disciplina: LEDA
  * Roteiro: Implementação de Conjunto Dinâmico Encadeado com lista encadeada (simples ou duplamente encadeada)
  * 
